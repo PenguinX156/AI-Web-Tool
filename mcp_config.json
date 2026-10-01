@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ai-web-tool": {
+      "command": "/home/pengufen/agent-env/bin/python",
+      "args": [
+        "/home/pengufen/Code Projects/AI Web Tool/server.py"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
